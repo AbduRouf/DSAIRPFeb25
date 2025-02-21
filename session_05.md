@@ -10,22 +10,22 @@ AGI refers to machines that can understand, learn, and apply knowledge across va
 Perceptron (1958)
 The perceptron, developed by Frank Rosenblatt, was one of the earliest artificial neural networks. It was designed as a simplified model of how neurons in the brain process information. However, it had limitations, particularly in solving non-linearly separable problems (e.g., XOR problem).
 
-##Backpropagation (1986)
+## Backpropagation (1986)
 Backpropagation is an algorithm used to train deep neural networks by adjusting weights through gradient descent. Introduced by Rumelhart, Hinton, and Williams, it significantly improved AI's learning capability, leading to advances in neural networks.
 
-##AI Winter
+## AI Winter
 AI Winter refers to periods of reduced funding and interest in AI research due to unmet expectations. Notable AI winters occurred in the 1970s and 1980s when AI progress slowed down, and investors lost confidence in its potential.
 
-##DARPA Grand Challenge (2005)
+## DARPA Grand Challenge (2005)
 This was a competition organized by the Defense Advanced Research Projects Agency (DARPA) to develop autonomous vehicles. The challenge marked a breakthrough in self-driving car technology, with Stanley, an autonomous vehicle by Stanford University, winning the 2005 race.
 
-##ImageNet 2012
+## ImageNet 2012
 The ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012 marked a major leap in deep learning when AlexNet, developed by Geoffrey Hinton’s team, significantly outperformed traditional computer vision models. This event led to the deep learning revolution.
 
-##2024 Nobel Prize in Physics
+## 2024 Nobel Prize in Physics
 (Pending real-world event confirmation) If awarded for AI-related advancements, it would highlight AI’s impact on scientific discovery, computational models, or quantum AI.
 
-##Deepseek
+## Deepseek
 Deepseek is a recent AI model or initiative (details depend on context). It may refer to DeepSeek-V2, an advanced AI model aimed at improving natural language processing (NLP) and reasoning capabilities.
 
 ## Key Deciding Factors of Growth of AI
